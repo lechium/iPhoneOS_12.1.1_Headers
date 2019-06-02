@@ -1,0 +1,17 @@
+#import <SetupAssistantSupport/SASProximityInformationAction.h>
+#import <SetupAssistantSupport/SASProximityCompanionAuthRequestAction.h>
+#import <SetupAssistantSupport/SASSystemInformation.h>
+#import <SetupAssistantSupport/SASProximityHandshakeAction.h>
+#import <SetupAssistantSupport/SASProximityReadyAction.h>
+#import <SetupAssistantSupport/SASLogging.h>
+#import <SetupAssistantSupport/SASProximitySession.h>
+#import <SetupAssistantSupport/SASProximityPasscodeValidationAction.h>
+#import <SetupAssistantSupport/SASProximityAction.h>
+#import <SetupAssistantSupport/SASProximityHandshake.h>
+#import <SetupAssistantSupport/SASProximityFinishedAction.h>
+#import <SetupAssistantSupport/SASProximitySessionSharingTransport.h>
+#import <SetupAssistantSupport/SASProximityBackupAction.h>
+#import <SetupAssistantSupport/SASProximityInformation.h>
+#import <SetupAssistantSupport/SASProximityAnisetteRequestAction.h>
+#import <SetupAssistantSupport/SASProximitySessionTransport.h>
+#import <SetupAssistantSupport/SASProximityAnisetteDataProvider.h>

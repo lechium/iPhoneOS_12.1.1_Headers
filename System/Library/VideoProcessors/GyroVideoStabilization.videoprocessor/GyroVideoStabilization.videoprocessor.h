@@ -1,0 +1,10 @@
+#import <GyroVideoStabilization.videoprocessor/FigMetalContext.h>
+#import <GyroVideoStabilization.videoprocessor/AContext.h>
+#import <GyroVideoStabilization.videoprocessor/AFilter.h>
+#import <GyroVideoStabilization.videoprocessor/EAffineXform.h>
+#import <GyroVideoStabilization.videoprocessor/CMMTLComputePipelineState.h>
+#import <GyroVideoStabilization.videoprocessor/CMMTLRenderPipelineState.h>
+#import <GyroVideoStabilization.videoprocessor/CMMTLCommandQueue.h>
+#import <GyroVideoStabilization.videoprocessor/CMMTLCommandBuffer.h>
+#import <GyroVideoStabilization.videoprocessor/CMMTLComputeCommandEncoder.h>
+#import <GyroVideoStabilization.videoprocessor/CMMTLRenderCommandEncoder.h>

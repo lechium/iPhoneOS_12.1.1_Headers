@@ -1,0 +1,12 @@
+#import <MPSCore/MPSExternalPluginBase.h>
+#import <MPSCore/MPSStateResourceList.h>
+#import <MPSCore/MPSState.h>
+#import <MPSCore/MPSCommandBufferImageCache.h>
+#import <MPSCore/MPSKeyedUnarchiver.h>
+#import <MPSCore/MPSImageDefaultAllocator.h>
+#import <MPSCore/MPSTemporaryImageDefaultAllocator.h>
+#import <MPSCore/MPSImageDescriptor.h>
+#import <MPSCore/MPSImage.h>
+#import <MPSCore/MPSTemporaryImage.h>
+#import <MPSCore/MPSVirtualImage.h>
+#import <MPSCore/MPSKernel.h>

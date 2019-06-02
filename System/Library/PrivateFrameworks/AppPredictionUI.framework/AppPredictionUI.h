@@ -1,0 +1,13 @@
+#import <AppPredictionUI/APUIActionCardRequest.h>
+#import <AppPredictionUI/APUIActionCardViewConfig.h>
+#import <AppPredictionUI/APUICardService.h>
+#import <AppPredictionUI/APUIWFLIntentController.h>
+#import <AppPredictionUI/_APUIActionCardInfo.h>
+#import <AppPredictionUI/APUIAppIconImageLoader.h>
+#import <AppPredictionUI/APUIShortLookViewController.h>
+#import <AppPredictionUI/APUIActionCardUtils.h>
+#import <AppPredictionUI/APUICardRequestSatisfactionCriteria.h>
+#import <AppPredictionUI/_APUICardRequestCompactSatisfactionCriteria.h>
+#import <AppPredictionUI/_APUICardRequestCustomIntentSatisfactionCriteria.h>
+#import <AppPredictionUI/APUILongLookViewController.h>
+#import <AppPredictionUI/APUIIntentHandlingViewController.h>

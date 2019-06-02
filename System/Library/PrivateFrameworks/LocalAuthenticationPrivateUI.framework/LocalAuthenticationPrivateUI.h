@@ -1,0 +1,9 @@
+#import <LocalAuthenticationPrivateUI/LAUIPhysicalButtonView.h>
+#import <LocalAuthenticationPrivateUI/LAUIPearlGlyphLabel.h>
+#import <LocalAuthenticationPrivateUI/LAUIHorizontalArrowView.h>
+#import <LocalAuthenticationPrivateUI/LAUIAnimationDelegate.h>
+#import <LocalAuthenticationPrivateUI/LAUICubicBSplineRenderer.h>
+#import <LocalAuthenticationPrivateUI/LAUIRadialPingView.h>
+#import <LocalAuthenticationPrivateUI/LAUICheckmarkLayer.h>
+#import <LocalAuthenticationPrivateUI/LAUIPearlGlyphView.h>
+#import <LocalAuthenticationPrivateUI/LAUIPearlGlyphViewStaticResources.h>

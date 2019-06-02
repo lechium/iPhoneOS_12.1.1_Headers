@@ -1,0 +1,11 @@
+#import <AMPCoreUI/AMPTintedBackgroundButton.h>
+#import <AMPCoreUI/AMPOnboardingFeature.h>
+#import <AMPCoreUI/AMPOnboardingViewController.h>
+#import <AMPCoreUI/AMPOnboardingHeaderView.h>
+#import <AMPCoreUI/AMPButton.h>
+#import <AMPCoreUI/AMPOnboardingFeatureView.h>
+#import <AMPCoreUI/AMPOnboardingMultiFeatureHeaderView.h>
+#import <AMPCoreUI/AMPPrivacyViewController.h>
+#import <AMPCoreUI/AMPPrivacyIconViewController.h>
+#import <AMPCoreUI/AMPPrivacyAnimatedTransitioning.h>
+#import <AMPCoreUI/AMPPrivacyPresentationController.h>

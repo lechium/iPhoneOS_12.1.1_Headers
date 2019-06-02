@@ -1,0 +1,17 @@
+#import <PassKitUIFoundation/PKPeerPayment3DTextView.h>
+#import <PassKitUIFoundation/PKPeerPayment3DScene.h>
+#import <PassKitUIFoundation/PKPeerPayment3DCharacter.h>
+#import <PassKitUIFoundation/PKPeerPayment3DStore.h>
+#import <PassKitUIFoundation/PKCheckGlyphLayer.h>
+#import <PassKitUIFoundation/PKUISpringAnimationFactory.h>
+#import <PassKitUIFoundation/PKAuthenticatorEvaluationRequest.h>
+#import <PassKitUIFoundation/PKAuthenticatorEvaluationResponse.h>
+#import <PassKitUIFoundation/PKAuthenticatorSharedRootContext.h>
+#import <PassKitUIFoundation/PKAuthenticatorEvaluationContext.h>
+#import <PassKitUIFoundation/PKAuthenticator.h>
+#import <PassKitUIFoundation/PKPaymentRemoteInstrumentThumbnailView.h>
+#import <PassKitUIFoundation/PKFingerprintGlyphView.h>
+#import <PassKitUIFoundation/PKMotionManager.h>
+#import <PassKitUIFoundation/PK3DCardView.h>
+#import <PassKitUIFoundation/PKPhoneGlyphLayer.h>
+#import <PassKitUIFoundation/PKGlyphView.h>

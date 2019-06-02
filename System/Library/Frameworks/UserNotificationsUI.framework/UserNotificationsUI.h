@@ -1,0 +1,4 @@
+#import <UserNotificationsUI/_UNNotificationContentExtensionContext.h>
+#import <UserNotificationsUI/_UNNotificationExtensionRemoteViewController.h>
+#import <UserNotificationsUI/_UNNotificationExtensionRemoteViewControllerView.h>
+#import <UserNotificationsUI/_UNNotificationExtensionHostViewController.h>

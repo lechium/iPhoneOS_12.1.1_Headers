@@ -1,0 +1,12 @@
+#import <IntentsCore/INCExtensionRequest.h>
+#import <IntentsCore/INCLocalExtensionRegistry.h>
+#import <IntentsCore/INCExtensionPlugInBundle.h>
+#import <IntentsCore/INCExtensionTransaction.h>
+#import <IntentsCore/INCExtensionManager.h>
+#import <IntentsCore/INCExtensionPlugInBundleManager.h>
+#import <IntentsCore/INCDisplayLayoutMonitorObserver.h>
+#import <IntentsCore/INCExtensionTransactionState.h>
+#import <IntentsCore/INCExtensionConnection.h>
+#import <IntentsCore/INCExtensionError.h>
+#import <IntentsCore/INCAppProxy.h>
+#import <IntentsCore/INCExtensionProxy.h>

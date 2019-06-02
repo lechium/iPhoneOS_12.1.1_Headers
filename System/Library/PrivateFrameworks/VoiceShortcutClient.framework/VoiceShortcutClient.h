@@ -1,0 +1,12 @@
+#import <VoiceShortcutClient/VCUserActivityDonation.h>
+#import <VoiceShortcutClient/VCActionDonationFetcher.h>
+#import <VoiceShortcutClient/VCActionDonationAggregator.h>
+#import <VoiceShortcutClient/VCInteractionDonationFetcher.h>
+#import <VoiceShortcutClient/VCUserActivityDonationFetcher.h>
+#import <VoiceShortcutClient/VCActionDonationRecommender.h>
+#import <VoiceShortcutClient/VCActionDonationSet.h>
+#import <VoiceShortcutClient/VCVoiceShortcut.h>
+#import <VoiceShortcutClient/VCActionDonationDefaultsRecommender.h>
+#import <VoiceShortcutClient/VCInteractionDonation.h>
+#import <VoiceShortcutClient/VCVoiceShortcutPhraseValidationResult.h>
+#import <VoiceShortcutClient/VCVoiceShortcutClient.h>

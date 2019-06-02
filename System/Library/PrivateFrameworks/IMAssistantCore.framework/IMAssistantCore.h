@@ -1,0 +1,14 @@
+#import <IMAssistantCore/IMAssistantAudioPlayer.h>
+#import <IMAssistantCore/IMAssistantMessageAttributeOptions.h>
+#import <IMAssistantCore/IMAssistantMessageSendHandler.h>
+#import <IMAssistantCore/IMAssistantMessageSearchHandler.h>
+#import <IMAssistantCore/IMAssistantMessagePlayAudioHandler.h>
+#import <IMAssistantCore/IMAssistantIntentHandler.h>
+#import <IMAssistantCore/IMAssistantChatParticipant.h>
+#import <IMAssistantCore/IMAssistantMessageHandler.h>
+#import <IMAssistantCore/IMAssistantINMessageConverter.h>
+#import <IMAssistantCore/IMAssistantRelevantChatMatchingRecipients.h>
+#import <IMAssistantCore/IMAssistantMessageSetAttributeHandler.h>
+#import <IMAssistantCore/IMAssistantMessageSearchChatParticipant.h>
+#import <IMAssistantCore/IMAssistantMessageQueryHandler.h>
+#import <IMAssistantCore/IMAssistantMessageReadAttributeSanitizer.h>

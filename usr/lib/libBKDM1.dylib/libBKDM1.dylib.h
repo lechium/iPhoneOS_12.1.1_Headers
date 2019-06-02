@@ -1,0 +1,11 @@
+#import <libBKDM1.dylib/BiometricKitXPCServerMesa.h>
+#import <libBKDM1.dylib/TemplateInfo.h>
+#import <libBKDM1.dylib/ADEvent.h>
+#import <libBKDM1.dylib/ADStorage.h>
+#import <libBKDM1.dylib/BiometricKitDStatistics.h>
+#import <libBKDM1.dylib/BioLogBase.h>
+#import <libBKDM1.dylib/BioLog.h>
+#import <libBKDM1.dylib/BLHelper.h>
+#import <libBKDM1.dylib/BLTemplateList.h>
+#import <libBKDM1.dylib/BLTimeBox.h>
+#import <libBKDM1.dylib/BKCatacomb.h>

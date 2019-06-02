@@ -1,0 +1,9 @@
+#import <libAppletTranslationLibrary.dylib/MercuryDecoder.h>
+#import <libAppletTranslationLibrary.dylib/AppletConfigurationData.h>
+#import <libAppletTranslationLibrary.dylib/MifareDecoder.h>
+#import <libAppletTranslationLibrary.dylib/ExpressMode.h>
+#import <libAppletTranslationLibrary.dylib/TransceiverWrapper.h>
+#import <libAppletTranslationLibrary.dylib/HashHelper.h>
+#import <libAppletTranslationLibrary.dylib/AppletTranslator.h>
+#import <libAppletTranslationLibrary.dylib/ATLGetDecoder.h>
+#import <libAppletTranslationLibrary.dylib/DERLogContext.h>

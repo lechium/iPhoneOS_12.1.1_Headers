@@ -1,0 +1,17 @@
+#import <MediaPlayerUI/MPUTransportControlsView.h>
+#import <MediaPlayerUI/MPUNowPlayingMetadata.h>
+#import <MediaPlayerUI/MPUNavigationController.h>
+#import <MediaPlayerUI/MPUGradientView.h>
+#import <MediaPlayerUI/MPUPlaybackAlertController.h>
+#import <MediaPlayerUI/MPUTheme.h>
+#import <MediaPlayerUI/MPUAdaptiveCollectionViewController.h>
+#import <MediaPlayerUI/MPUItemOfferButton.h>
+#import <MediaPlayerUI/MPURatingControl.h>
+#import <MediaPlayerUI/MPUApplicationDefaults.h>
+#import <MediaPlayerUI/MPUArtworkView.h>
+#import <MediaPlayerUI/MPUNowPlayingController.h>
+#import <MediaPlayerUI/MPUCollectionViewController.h>
+#import <MediaPlayerUI/MPUTextButton.h>
+#import <MediaPlayerUI/MPUVignetteBackgroundView.h>
+#import <MediaPlayerUI/MPUCompletionFooterView.h>
+#import <MediaPlayerUI/MPUCompletionQueryDataSource.h>

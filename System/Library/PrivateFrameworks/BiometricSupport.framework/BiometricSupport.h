@@ -1,0 +1,11 @@
+#import <BiometricSupport/BKCatacomb.h>
+#import <BiometricSupport/BiometricKitIdentity.h>
+#import <BiometricSupport/BiometricKitXPCExportedClientObject.h>
+#import <BiometricSupport/BiometricKitXPCExportedObject.h>
+#import <BiometricSupport/BiometricOperation.h>
+#import <BiometricSupport/BiometricKitXPCServer.h>
+#import <BiometricSupport/BiometricSupportUserNotification.h>
+#import <BiometricSupport/BKLocalization.h>
+#import <BiometricSupport/BKEvent.h>
+#import <BiometricSupport/BiometricKitEventLogger.h>
+#import <BiometricSupport/AWDBiometricKitEventLog.h>

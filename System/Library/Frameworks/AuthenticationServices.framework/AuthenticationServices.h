@@ -1,0 +1,13 @@
+#import <AuthenticationServices/ASCredentialIdentityStoreState.h>
+#import <AuthenticationServices/ASCredentialProviderViewController.h>
+#import <AuthenticationServices/ASCredentialIdentityStore.h>
+#import <AuthenticationServices/ASWebAuthenticationSession.h>
+#import <AuthenticationServices/_ASCredentialProviderExtensionHostContext.h>
+#import <AuthenticationServices/ASPasswordCredential.h>
+#import <AuthenticationServices/_ASCredentialProviderExtensionConfigurationViewController.h>
+#import <AuthenticationServices/ASCredentialServiceIdentifier.h>
+#import <AuthenticationServices/ASBackgroundObserver.h>
+#import <AuthenticationServices/_ASPasswordCredentialAuthenticationViewController.h>
+#import <AuthenticationServices/ASCredentialProviderExtensionContext.h>
+#import <AuthenticationServices/ASPasswordCredentialIdentity.h>
+#import <AuthenticationServices/_ASCredentialProviderExtensionViewController.h>

@@ -1,0 +1,11 @@
+#import <Spotlight/SPZKWSession.h>
+#import <Spotlight/SPZKWSearchQuery.h>
+#import <Spotlight/SPResultSearchSuggestion.h>
+#import <Spotlight/SPSuggestionSearchResult.h>
+#import <Spotlight/SPSearchSuggestion.h>
+#import <Spotlight/SPQueryResponse.h>
+#import <Spotlight/SPQueryTask.h>
+#import <Spotlight/SPAppService.h>
+#import <Spotlight/SPClientSession.h>
+#import <Spotlight/SPGeneralQueryTask.h>
+#import <Spotlight/SPSuggestionsQueryTask.h>
